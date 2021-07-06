@@ -1,22 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://24684623.github.io</id>
-    <title>透明</title>
-    <updated>2021-07-06T13:11:24.313Z</updated>
+    <title>赵较瘦</title>
+    <updated>2021-07-06T13:19:17.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://24684623.github.io"/>
     <link rel="self" href="https://24684623.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://24684623.github.io/images/avatar.png</logo>
     <icon>https://24684623.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 透明</rights>
+    <rights>All rights reserved 2021, 赵较瘦</rights>
     <entry>
         <title type="html"><![CDATA[记录菜鸟的成长史]]></title>
         <id>https://24684623.github.io/post/ji-lu-cai-niao-de-cheng-chang-shi/</id>
         <link href="https://24684623.github.io/post/ji-lu-cai-niao-de-cheng-chang-shi/">
         </link>
         <updated>2021-07-06T13:08:53.000Z</updated>
-        <content type="html"><![CDATA[<p>2021年9月26日：java二级</p>
+        <content type="html"><![CDATA[<p>这是我的第一篇博客<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+……<br>
+这是我的第一篇博客</p>
 ]]></content>
     </entry>
 </feed>
