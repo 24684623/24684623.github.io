@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zjs.github.io</id>
+    <id>https://24684623.github.io</id>
     <title>赵较瘦</title>
-    <updated>2021-07-07T00:47:53.134Z</updated>
+    <updated>2021-07-07T01:10:39.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zjs.github.io"/>
-    <link rel="self" href="https://zjs.github.io/atom.xml"/>
+    <link rel="alternate" href="https://24684623.github.io"/>
+    <link rel="self" href="https://24684623.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://zjs.github.io/images/avatar.png</logo>
-    <icon>https://zjs.github.io/favicon.ico</icon>
+    <logo>https://24684623.github.io/images/avatar.png</logo>
+    <icon>https://24684623.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 赵较瘦</rights>
     <entry>
         <title type="html"><![CDATA[二级（Java 语言程序设计）考试大纲]]></title>
-        <id>https://zjs.github.io/post/er-ji-java-yu-yan-cheng-xu-she-ji-kao-shi-da-gang/</id>
-        <link href="https://zjs.github.io/post/er-ji-java-yu-yan-cheng-xu-she-ji-kao-shi-da-gang/">
+        <id>https://24684623.github.io/post/er-ji-java-yu-yan-cheng-xu-she-ji-kao-shi-da-gang/</id>
+        <link href="https://24684623.github.io/post/er-ji-java-yu-yan-cheng-xu-she-ji-kao-shi-da-gang/">
         </link>
         <updated>2021-07-07T13:43:53.000Z</updated>
         <content type="html"><![CDATA[<h2 id="二级公共知识">二级公共知识</h2>
@@ -126,8 +126,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[菜鸟的成长印记]]></title>
-        <id>https://zjs.github.io/post/ji-lu-cai-niao-de-cheng-chang-shi/</id>
-        <link href="https://zjs.github.io/post/ji-lu-cai-niao-de-cheng-chang-shi/">
+        <id>https://24684623.github.io/post/ji-lu-cai-niao-de-cheng-chang-shi/</id>
+        <link href="https://24684623.github.io/post/ji-lu-cai-niao-de-cheng-chang-shi/">
         </link>
         <updated>2021-07-06T13:08:53.000Z</updated>
         <content type="html"><![CDATA[<p>It’s a great pleasure for me to have this opportunity for the interview.</p>
